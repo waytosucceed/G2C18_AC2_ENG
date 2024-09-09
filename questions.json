@@ -1,0 +1,209 @@
+[
+    {
+        "questionNo": "Q1.",
+        "question": "Which sentence tells us something?",
+        "options": [
+            "Statement",
+            "Question",
+            "Command"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q2.",
+        "question": "What kind of sentence asks something?",
+        "options": [
+            "Exclamation",
+            "Question",
+            "Command"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q3.",
+        "question": "Which sentence ends with this symbol (!)?",
+        "options": [
+            "Statement",
+            "Question",
+            "Exclamation"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q4.",
+        "question": "<b>What type of sentence is</b><br><span style='color:blue'> 'Please tie your shoes'</span><br>?",
+        "options": [
+            "Statement",
+            "Command",
+            "Question"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q5.",
+        "question": "A statement sentence ends with a question mark.",
+        "options": [
+            "Yes",
+            "No"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q6.",
+        "question": "Which sentence is a question?",
+        "options": [
+            "The sky is blue.",
+            "What is your name?",
+            "Be quiet!"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q7.",
+        "question": "<b>Fill in the blank:</b><br> An exclamation sentence shows _____ feelings.",
+        "options": [
+            "small",
+            "no",
+            "strong"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q8.",
+        "question": "Which sentence is a command?",
+        "options": [
+            "The dog is brown.",
+            "Is it raining?",
+            "Sit down."
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q9.",
+        "question": "<b>Which type of sentence is</b><br><span style='color:blue'> 'Wow, that's amazing!'</span><br>?",
+        "options": [
+            "Statement",
+            "Question",
+            "Exclamation"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q10.",
+        "question": "<b>Fill in the blank:</b><br> A _____ sentence tells us to do something.",
+        "options": [
+            "statement",
+            "command",
+            "question"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q11.",
+        "question": "Which sentence is a statement?",
+        "options": [
+            "What time is it?",
+            "The sun is bright.",
+            "Look out!"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q12.",
+        "question": "A command sentence always ends with an exclamation mark.",
+        "options": [
+            "Yes",
+            "No"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q13.",
+        "question": "Which sentence is an exclamation?",
+        "options": [
+            "The cat is sleeping.",
+            "Where is my book?",
+            "What a beautiful day!"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q14.",
+        "question": "<b>Fill in the blank:</b><br> A _____ sentence ends with a full-stop.",
+        "options": [
+            "question",
+            "exclamation",
+            "statement"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q15.",
+        "question": "<b>Which type of sentence is</b><br> <span style='color:blue'>'Do your homework'</span><br>?",
+        "options": [
+            "Statement",
+            "Question",
+            "Command"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q16.",
+        "question": "<b>Which type of sentence is</b><br> <span style='color:blue'>'How old are you?'</span><br>?",
+        "options": [
+            "Statement",
+            "Question",
+            "Command"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q17.",
+        "question": "<b>Which type of sentence is</b><br> <span style='color:blue'>'The frog jumped into the pond'</span><br>?",
+        "options": [
+            "Question",
+            "Statement",
+            "Command"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q18.",
+        "question": "<b>Fill in the blank</b>:<br> '_____ your teeth before bed' is a command sentence.",
+        "options": [
+            "Brush",
+            "Brushing",
+            "Brushed"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q19.",
+        "question": "Which sentence is asking something?",
+        "options": [
+            "The sky is blue.",
+            "Do you like bananas?",
+            "Eat your vegetables."
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q20.",
+        "question": "<b>What kind of sentence is</b><br><span style='color:blue'> 'Wow, that's a huge elephant!'</span><br>?",
+        "options": [
+            "Statement",
+            "Question",
+            "Exclamation"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q21.",
+        "question": "Which sentence matches the picture?<img src='loud.jpg' style='width:40%; height:30%'>",
+        "options": [
+            "Roy's house is so round!",
+            "Roy's voice is so loud!"
+        ],
+        "correct": 1
+    }
+]
